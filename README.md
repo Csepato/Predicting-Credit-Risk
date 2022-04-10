@@ -20,5 +20,4 @@ I will be using this data to create machine learning models to classify the risk
 ![train random forest model](images/random-forest.png)
 
 ## Results
-How do the model scores compare to each other, and to the previous results on unscaled data?
-* When comparing the two models without scaling the data, the random forest model performed better on the test data.
+When comparing the two models without scaling the data, the random forest model performed better on the test data.
