@@ -10,5 +10,5 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 I will be using this data to create machine learning models to classify the risk level of given loans. Specifically, I will be comparing the Logistic Regression model and Random Forest Classifier.
 
-## Preprocessing: Converting categorical data to numeric
+## Converting categorical data to numeric
 ![convert categorical data](images/Convert-categorical-data.png)
