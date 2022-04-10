@@ -12,3 +12,10 @@ I will be using this data to create machine learning models to classify the risk
 
 ## Converting categorical data to numeric
 ![convert categorical data](images/Convert-categorical-data.png)
+
+## Fitting a LogisticRegression model
+![train logistic regression model](images/logistic-regression.png)
+
+
+## Fitting a RandomForestClassifier model
+![train randon forest model](images/random-forest.png)
