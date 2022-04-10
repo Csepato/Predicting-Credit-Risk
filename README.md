@@ -14,8 +14,7 @@ I will be using this data to create machine learning models to classify the risk
 ![convert categorical data](images/Convert-categorical-data.png)
 
 ## Fitting a LogisticRegression model
-![train logistic model](images/logistic-regression.png)
-
+![train logistic regress model](images/logistic-regression.png)
 
 ## Fitting a RandomForestClassifier model
-![train randon forest model](images/random-forest.png)
+![train random forest model](images/random-forest.png)
