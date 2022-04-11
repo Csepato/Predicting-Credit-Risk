@@ -22,10 +22,11 @@ I will be using this data to create machine learning models to classify the risk
 ## Results
 When comparing the two models without any scaling, the random forest model performed better on the test data. The lack of scaling seem to have had an impact on the test data.
 
-With scaling the logistic regression model performed better than random forest model with a 0.66 accurancy score.
+With scaling the logistic regression model performed better than random forest model with a 0.66 accuracy score.
 The random forest model decreased in accuracy from 0.64 to 0.56 with scaled data.  
-Random forest is a tree-based model and is not affected by feature scaling. 
+
+Random forest is a tree-based model and is not affected by scaling. 
 The model does not rely on scaled data to make accurate predictions unlike the logistic regression model.
 
-In conclusion, even though the model was able to produce a 0.66 accuracy this may not be sufficient for credit worthiness purposes. 
+In conclusion, even though my model was able to produce a 0.66 accuracy this may not be sufficient for credit worthiness purposes. 
 Money may be lost if loan decisions are solely based on this model.     
