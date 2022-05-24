@@ -1,4 +1,4 @@
-![LendingClub](images/Lending-club.png)
+![LendingClub](images/Lending-club-predicting-credit-risk.jpg)
 
 # Predicting Credit Risk
 
